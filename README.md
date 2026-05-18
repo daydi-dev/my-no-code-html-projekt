@@ -1,1 +1,1 @@
-# HTML5 Web egine
+# lightweight & offline-Frist no-code HTML5 web engine for browsers 
